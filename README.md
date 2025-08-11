@@ -1,5 +1,9 @@
 # 📚 Projeto de Software
 
+<div>
+<img src="Gif-git.gif"  align="center" style="width: 100% alt="Descrição do gif" />
+</div>
+
 Repositório destinado ao armazenamento de **resenhas de artigos** e **atividades** relacionadas à disciplina de Projeto de Software.  
 O objetivo é centralizar os materiais produzidos durante o curso, facilitando o acompanhamento e organização do aprendizado.
 
